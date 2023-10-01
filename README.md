@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm LOST (Manuel)</h1></summary>
   </ul>
 </div>
 
@@ -20,25 +20,25 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Si puedes imaginarlo puedes programarlo</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Java, C#,C++, Nodejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Instagram](https://www.instagram.com/_kontinuum_/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Any doubts you may have, although I am not very good at programming, I only give my best**.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **manuel.alejandroluis.lopez@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We've a tech community called [El Sotano de Chaqueteros](https://discord.gg/t8manJ44).
 <!--Intro end-->
 
 
